@@ -23,6 +23,7 @@ h3,
 h4,
 h5 {
   color: #fff;
+ 
 }
 
 p,
@@ -553,9 +554,7 @@ contact us Page ends here
   .grid-four-cols {
     grid-template-columns: repeat(3, 1fr);
   }
-  h1{
-    font-size: 1.8rem;
-  }
+  
   
 }
 
