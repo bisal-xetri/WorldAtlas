@@ -7,7 +7,7 @@ import { Country } from "./pages/Country";
 import { AppLayout } from "./components/layout/AppLayout";
 import { ErrorPage } from "./pages/ErrorPage";
 import { CountryDetails } from "./components/layout/CountryDetails";
-
+//kei check
 const router = createBrowserRouter([
   {
     path: "/",
