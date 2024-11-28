@@ -13,7 +13,7 @@ console.log(formInputData)
             type="text"
             className="form-control"
             required
-            autoComplete="false"
+            autoComplete="off"
             placeholder="Enter your name"
             name="username"
           />
@@ -22,13 +22,13 @@ console.log(formInputData)
             name="email"
             className="form-control"
             placeholder="Enter your Email"
-            autoComplete="false"
+            autoComplete="off"
           />
           <textarea
             className="form-control"
             name="message"
             rows="10"
-            autoComplete="false"
+            autoComplete="off"
             placeholder="Enter your message"
           ></textarea>
           <button type="submit">Send</button>
